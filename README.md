@@ -1,6 +1,6 @@
 # Webhook Server
 
-Rename .env.dist to .env and fill in the values with an authorization key and a [discord developer token](https://discord.com/developers/applications)
+Rename .env.dist to .env and fill in the values with an authorization key and a [discord bot token](https://discord.com/developers/applications)
 The key should be your own, but is is optional. If you do not provide an authorization token, it will not be required
 
 ## How to post
